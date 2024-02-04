@@ -12,5 +12,6 @@ public class GitDemo {
         System.out.println("push-text");
         System.out.println("push-text2");
         System.out.println("在GitHub中进行了修改");
+        System.out.println("在GitHub中进行了第二次修改");
     }
 }
