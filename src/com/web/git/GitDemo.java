@@ -9,5 +9,6 @@ public class GitDemo {
         System.out.println("这是master的第四版...");
         System.out.println("这是hot-fix的第二版...");
         System.out.println("这是最终版...");
+        System.out.println("push-text");
     }
 }
